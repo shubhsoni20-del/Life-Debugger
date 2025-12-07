@@ -18,3 +18,21 @@ View your app in AI Studio: https://ai.studio/apps/drive/1lGl8BNGNpuY8CUXGCyUQz8
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+### How it works
+1. Upload any photo (desk, schedule, bill, room)
+2. AI finds problems
+3. Suggests fixes + optimized version
+4. Gives you an improvement plan
+
+### Features
+✔ Life Debugging  
+✔ Step-by-step actions  
+✔ Priority list  
+✔ Chatbot for extra help
+
+### Tech
+Google Gemini + Vite + TypeScript
+
+### Why it’s useful
+Makes daily life easier like debugging code.
