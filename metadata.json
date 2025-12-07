@@ -1,0 +1,5 @@
+{
+  "name": "Life Debugger",
+  "description": "A multimodal AI assistant that analyzes screenshots and photos to identify problems, inefficiencies, or messes, providing actionable repair plans and future prevention strategies.",
+  "requestFramePermissions": []
+}
